@@ -60464,7 +60464,7 @@ A.a6_.prototype={
 $0(){A.aa6("https://play.google.com/store/apps/details?id=com.MaceInteractive.WasteSortCamrose")},
 $S:0}
 A.a60.prototype={
-$0(){A.aa6("https://apps.apple.com/us/app/wastesort-blackfalds/id1619799359")},
+$0(){A.aa6("https://apps.apple.com/us/app/wastesort-camrose/id1619799359")},
 $S:0}
 A.a61.prototype={
 $0(){A.bk("https://wastesync.ca/")},
